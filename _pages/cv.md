@@ -11,54 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*	Professor of Agricultural Sciences, University of Agriculture in Krakow, Krakow 2019
+*	ScD in biology, Jagiellonian University, Krakow, 2010, “Mechanisms of cooperation and conflict resolution in social insects” 
+*	PhD in biology, Jagiellonian University, Krakow, 2001, “Life strategies of honeybee workers” under supervision of Michał Woyciechowski
+*	MSc in biology, Jagiellonian University, Krakow, 1994, “Does honeybee swarming behaviour protects colony against social parasites?” under supervision of Michał Woyciechowski
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*	since 2019 professor, University of Agriculture in Krakow
+*	2014 - 2019 associate professor, University of Agriculture in Krakow
+*	2004 - 2014 assistant professor, University of Agriculture in Krakow
+*	2002 - 2004, University of Sheffield, postdoc 
+*	1994 - 2002, University of Agriculture in Krakow, teaching assistant
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
