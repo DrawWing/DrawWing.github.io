@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Contact information
-Department of Zoology and Animal Welfare
-University of Agriculture in Krakow
-29 Listopada 56, 31-425 Krakow, Poland
-Phone: + 48 12 662 50 69
+Department of Zoology and Animal Welfare  
+University of Agriculture in Krakow  
+29 Listopada 56, 31-425 Krakow, Poland  
+Phone: + 48 12 662 50 69  
 Email: rotofils@cyf-kr.edu.pl
 
 ## Education
