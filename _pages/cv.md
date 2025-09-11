@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+## Contact information
+Department of Zoology and Animal Welfare
+University of Agriculture in Krakow
+29 Listopada 56, 31-425 Krakow, Poland
+Phone: + 48 12 662 50 69
+Email: rotofils@cyf-kr.edu.pl
+
 ## Education
 * 2019, Professor of Agricultural Sciences, University of Agriculture in Krakow, Krakow
 *	2010, ScD in biology, Jagiellonian University, Krakow, “Mechanisms of cooperation and conflict resolution in social insects” 
