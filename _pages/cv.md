@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-*	Professor of Agricultural Sciences, University of Agriculture in Krakow, Krakow 2019
-*	ScD in biology, Jagiellonian University, Krakow, 2010, “Mechanisms of cooperation and conflict resolution in social insects” 
-*	PhD in biology, Jagiellonian University, Krakow, 2001, “Life strategies of honeybee workers” under supervision of Michał Woyciechowski
-*	MSc in biology, Jagiellonian University, Krakow, 1994, “Does honeybee swarming behaviour protects colony against social parasites?” under supervision of Michał Woyciechowski
+## Education
+* 2019, Professor of Agricultural Sciences, University of Agriculture in Krakow, Krakow
+*	2010, ScD in biology, Jagiellonian University, Krakow, “Mechanisms of cooperation and conflict resolution in social insects” 
+*	2001, PhD in biology, Jagiellonian University, Krakow, “Life strategies of honeybee workers” under supervision of Michał Woyciechowski
+*	1994, MSc in biology, Jagiellonian University, Krakow, “Does honeybee swarming behaviour protects colony against social parasites?” under supervision of Michał Woyciechowski
 
-Work experience
-======
+## Work experience
 *	since 2019 professor, University of Agriculture in Krakow
 *	2014 - 2019 associate professor, University of Agriculture in Krakow
 *	2004 - 2014 assistant professor, University of Agriculture in Krakow
