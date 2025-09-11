@@ -7,6 +7,28 @@ redirect_from:
   - /about.html
 ---
 
+1. Bakhchou S., Aglagane A., **Tofilski A.**, Mokrini F., Er-Rguibi O., El Mouden E.H., Machlowska J., Fellahi S., Mohssine E.H. (2025). Morphological diversity of Moroccan honey bees (*Apis mellifera* L. 1758): insights from a geometric morphometric study of wing venation in honey bees from different climatic regions. Diversity 17(8):527. [HLML](https://doi.org/10.3390/d17080527)
+
+2. Payró de la Cruz E., Valencia Domínguez M., Ramos Reyes R., **Tofilski A.** (2025). Reexamination of honey bee Africanization in Mexico and other regions of the New World. Scientific Reports 15(1): 1-10. https://doi.org/10.1038/s41598-025-00989-1
+
+3.	Ganie S.A., Rehman S.A., Bano P., **Tofilski A.** (2025). Influence of host plant on the wing shape of Bactrocera cucurbitae and Bactrocera tau (Diptera: Tephritidae). Oriental Insects 59:19-32. [HLML](https://doi.org/10.1080/00305316.2024.2369095)
+
+4.	Kaur H., Ganie S.A., **Tofilski A.** 2024. Morphometric identification of an unknown honey bee colony: an example from north India. Journal of Apicultural Science 68:155-166. https://doi.org/10.2478/JAS-2024-0013
+
+5.	Kaur H., Nedić N., **Tofilski A.** 2024. Influence of honey bee (*Apis mellifera*) breeding on wing venation in Serbia and neighbouring countries. PeerJ 12:e17247 [HLML](https://doi.org/10.7717/peerj.17247)
+
+6.	**Tofilski A.**, Kaur H., Łopuch S. 2024. Size and shape differences in the fore wings of honey bee (*Apis mellifera*) queens, workers, and drones. Journal of Apicultural Science 68:5-17. [HLML](https://doi.org/10.2478/jas-2023-0013)
+
+7.	Temirbayeva, K., Torekhanov A., Nuralieva U., Sheralieva Z., **Tofilski A.** 2023. In Search of *Apis mellifera pomonella* in Kazakhstan. Life 13:1860. [HLML](https://doi.org/10.3390/life13091860)
+
+8.	Aglagane A., Oleksa A., Er-Rguibi O., **Tofilski A.**, Laghzaoui E.-M., El Mouden E.H., Aamiri A., Aourir M. 2023. Genetic diversity and population structure of the Saharan honey bee *Apis mellifera sahariensis* from southeastern Morocco: introgression assessment and implications for conservation. Apidologie 54:31 [HLML](https://doi.org/10.1007/s13592-023-01009-9)
+
+9.	Oleksa, A., Căuia, E., Siceanu, A., Puškadija, Z., Kovačić, M., Pinto, M. A., Rodrigues, P. J., Hatjina, F., Charistos, L., Bouga, M., Prešern, J., Kandemir, İ., Rašić, S., Kusza, S., Tofilski, A. 2023. Honey bee (*Apis mellifera*) wing images: a tool for identification and conservation. GigaScience, 12: giad019. [HLML](https://doi.org/10.1093/gigascience/giad019)
+
+10.	García C.A.Y., Rodrigues P.J., **Tofilski A.**, Elen D., McCormak G.P., Oleksa A., Henriques D., Ilyasov R., Kartashev A., Bargain C., Fried B., Pinto M.A. 2022. Using the Software DeepWings© to Classify Honey Bees across Europe through Wing Geometric Morphometrics. Insects, 13: 1132. [HLML](https://doi.org/10.3390/insects13121132)
+
+11.	Szpila K., Johnston N. P., Akbarzadeh K., Richet R., **Tofilski A.** 2022. Wing measurements are a possible tool for the identification of European forensically important Sarcophagidae. Forensic Science International, 340: 111451. [HLML](https://doi.org/10.1016/j.forsciint.2022.111451)
+
 Aglagane A., **Tofilski A.**, Er-Rguibi O., Laghzaoui E.-M., Kimdil L., El Mouden E.H., Fuchs S., Oleksa A., Aamiri A., Aourir M. 2022. Geographical variation of honey bee (*Apis mellifera* L. 1758) populations in South-Eastern Morocco: a geometric morphometric analysis. Insects 13, 288. [HLML](https://doi.org/10.3390/insects13030288)
 
 Dukku U. H., Fuchs S., Danailu G., Grünewald B., **Tofilski A.**, Kryger P., Meixner M. D. 2022. Morphometric and mitochondrial variation of *Apis mellifera* L. and its relationship with geographical variables in parts of West and Central Africa. Journal of Apicultural Research, [HLML](https://doi.org/10.1080/00218839.2022.2030000)
@@ -15,13 +37,13 @@ Dukku U. H., Fuchs S., Danailu G., Grünewald B., **Tofilski A.**, Kryger P., Me
 
 Janczyk A., **Tofilski A.**, 2021. Monthly changes in honey bee forewings estimated using geometric morphometrics, Journal of Apicultural Science 65:139 - 146. [HLML](https://doi.org/10.2478/jas-2021-0002)
 
-**Tofilski A.**, Căuia E., Siceanu A., Vi?an G.O., Căuia D. 2021. Historical changes in honey bee wing venation in Romania. Insects 12: 542. [HLML](https://doi.org/10.3390/insects12060542)
+**Tofilski A.**, Căuia E., Siceanu A., Vișan G.O., Căuia D. 2021. Historical changes in honey bee wing venation in Romania. Insects 12: 542. [HLML](https://doi.org/10.3390/insects12060542)
 
 Oleksa A., Kusza S. **Tofilski A.** 2021. Mitochondrial DNA Suggests the introduction of honeybees of African ancestry to East-Central Europe. Insects 12: 410. [HLML](https://doi.org/10.3390/insects12050410)
 
-Puškadija Z., Kovačić M., Raguž N., Lukić B., Prešern J., **Tofilski A.** 2021. Morphological diversity of Carniolan honey bee (\*Apis mellifera carnica) in Croatia. Journal of Apicultural Research 60: 326-336. [HLML](https://doi.org/10.1080/00218839.2020.1843847)
+Puškadija Z., Kovačić M., Raguž N., Lukić B., Prešern J., **Tofilski A.** 2021. Morphological diversity of Carniolan honey bee (*Apis mellifera carnica) in Croatia. Journal of Apicultural Research 60: 326-336. [HLML](https://doi.org/10.1080/00218839.2020.1843847)
 
-Janczyk A., Meixner M.D., **Tofilski A.** 2021. Morphometric identification of the endemic Maltese honey bee (*Apis mellifera ruttneri*). Journal of Apicultural Research 60: ?157-164. [HLML](https://doi.org/10.1080/00218839.2020.1827705)
+Janczyk A., Meixner M.D., **Tofilski A.** 2021. Morphometric identification of the endemic Maltese honey bee (*Apis mellifera ruttneri*). Journal of Apicultural Research 60: 157-164. [HLML](https://doi.org/10.1080/00218839.2020.1827705)
 
 Hailu T. G., D'Alvise P., **Tofilski A.**, Fuchs S., Greiling J., Rosenkranz P., Hasselmann M. (2020). Insights into Ethiopian honey bee diversity based on wing geomorphometric and mitochondrial DNA analyses. Apidologie 51: 1182-1198. [HLML](https://doi.org/10.1007/s13592-020-00796-9)
 
@@ -85,7 +107,7 @@ Oleksa A., **Tofilski A.** 2015. Wing geometric morphometrics and microsatellite
 
 Soszyński B., Mielczarek L.E., **Tofilski A.** 2013. Dasysyrphus neovenustus sp. n. (Diptera: Syrphidae) a new species in the venustus species group. Polish Journal of Entomology 82:353-363. [HLML](https://doi.org/10.2478/v10200-012-0049-0)
 
-Wenseleers T., Bacon J.P., Alves D.A., Couvillon M.J., Kärcher M., Nascimento F.S., Nogueira-Neto P., Ribeiro M., Robinson E.J.H., **Tofilski A.**, Ratnieks F.L.W. 2013. Bourgeois behavior and freeloading in the colonial orb web spider Parawixia bistriata (Araneae, Araneidae). American Naturalist 182:120-129. [HLML](https://doi.org/10.1086/670525)
+Wenseleers T., Bacon J.P., Alves D.A., Couvillon M.J., Kärcher M., Nascimento F.S., Nogueira-Neto P., Ribeiro M., Robinson E.J.H., **Tofilski A.**, Ratnieks F.L.W. 2013. Bourgeois behavior and freeloading in the colonial orb web spider *Parawixia bistriata* (Araneae, Araneidae). American Naturalist 182:120-129. [HLML](https://doi.org/10.1086/670525)
 
 Oleksa A., Wilde J., **Tofilski A.**, Chybicki I.J. 2013. Partial reproductive isolation between European subspecies of honey bees. Apidologie 44:611-619. [HLML](https://doi.org/10.1007/s13592-013-0212-y)
 
@@ -95,7 +117,7 @@ Oleksa A., Gawroński R., **Tofilski A.** 2013. Rural avenues as a refuge for fe
 
 **Tofilski A.**, Chuda-Mickiewicz B., Czekonska K., Chorbiński P. 2012. Flow cytometry evidence about sperm competition in honey bee (*Apis mellifera*). Apidologie 43: 63-70. [HLML](https://doi.org/10.1007/s13592-011-0089-6)
 
-**Tofilski A.** 2011. Homology of submarginal cross veins in forewings of bees (Hymenoptera: Apiformes). Journal of Apicultural Science 55:131-140. [HLML](tofiliski2011homology.pdf"\>PDF</a>
+**Tofilski A.** 2011. Homology of submarginal cross veins in forewings of bees (Hymenoptera: Apiformes). Journal of Apicultural Science 55:131-140. [PDF](https://DrawWing.github.io/files/tofiliski2011homology.pdf)
 
 Higginson A. D., Barnard C.J., **Tofilski A.**, Medina L., Ratnieks F.L.W., 2011. Experimental wing damage affects foraging effort and foraging distance in honeybees *Apis mellifera*. Psyche 2011:419793. [HLML](https://doi.org/10.1155/2011/419793)
 
@@ -115,19 +137,19 @@ Robinson E.J.H., **Tofilski A.**, Ratnieks F.L.W., 2008. The use of native and n
 
 **Tofilski A.**, Ratnieks F.L.W. 2008. Simple rules based on pile slope are used in the self organization of sand pile formation by *Pheidole oxyops* ants. Insectes Sociaux 55:37-42. [HLML](https://doi.org/10.1007/s00040-007-0967-0)
 
-**Tofilski A.** 2007. Automatic measurements of honeybee wings. In MacLeod, N. (ed.), Automated Object Identification in Systematics: Theory, Approaches, and Applications, Systematics Association Special Volume, CRC Press, Boca Raton, Florida, pp 289-298. [HLML](tofilski2007automatic.pdf"\>PDF</a>
+**Tofilski A.** 2007. Automatic measurements of honeybee wings. In MacLeod, N. (ed.), Automated Object Identification in Systematics: Theory, Approaches, and Applications, Systematics Association Special Volume, CRC Press, Boca Raton, Florida, pp 289-298. [PDF](https://DrawWing.github.io/files/tofilski2007automatic.pdf)
 
-**Tofilski A.** 2006. Influence of caste polyethism on longevity of workers in social insect colonies. J. Theor. Biol. 238:527-531. [HLML](Tofilski2006_jtb.pdf"\>PDF</a>, [HLML](caste-appendix.html"\>Appendix</a>,
+**Tofilski A.** 2006. Influence of caste polyethism on longevity of workers in social insect colonies. J. Theor. Biol. 238:527-531. [PDF](https://DrawWing.github.io/files/Tofilski2006_jtb.pdf),  [Appendix](https://DrawWing.github.io/files/Tofilski2006appendix.html)
 
 D'Ettorre P., **Tofilski A.**, Heinze J., Ratnieks F. L. W., 2006. Non-transferable signals on ant queen eggs. Naturwissenschaften 93:136-140.
 
 Helanterä H., **Tofilski A.**, Wenseleers T., Ratnieks F. L. W., 2006. Worker policing in the common wasp *Vespula vulgaris* is not aimed at improving colony hygiene. Insectes Sociaux 53:399-402.
 
-**Tofilski A.**, Ratnieks F.L.W. 2005. Sand pile formation in *Dorymyrmex* ants. Journal of Insect Behavior 18:505-512. [HLML](tofilski_ratnieks_2005.pdf"\>PDF</a>
+**Tofilski A.**, Ratnieks F.L.W. 2005. Sand pile formation in *Dorymyrmex* ants. Journal of Insect Behavior 18:505-512. [PDF](https://DrawWing.github.io/files/tofilski_ratnieks_2005.pdf)
 
-Wenseleers T, **Tofilski A**, Ratnieks FLW, 2005. Queen and worker policing in the tree wasp *Dolichovespula sylvestris*. Behavioral Ecology and Sociobiology 58:80-86. [HLML](wenseleers_etal_2005_bes.pdf"\>PDF</a>
+Wenseleers T, **Tofilski A**, Ratnieks FLW, 2005. Queen and worker policing in the tree wasp *Dolichovespula sylvestris*. Behavioral Ecology and Sociobiology 58:80-86. [PDF](https://DrawWing.github.io/files/wenseleers_etal_2005_bes.pdf)
 
-Wenseleers T, Badcock NS, Erven K, **Tofilski A**, Nascimento FS, Hart AG, Burke TA, Archer ME, Ratnieks FLW, 2005. A test of worker policing theory in an advanced eusocial wasp, *Vespula rufa*. Evolution 59:1306-1314. [HLML](wenseleers_etal_2005_evolution.pdf"\>PDF</a>
+Wenseleers T, Badcock NS, Erven K, **Tofilski A**, Nascimento FS, Hart AG, Burke TA, Archer ME, Ratnieks FLW, 2005. A test of worker policing theory in an advanced eusocial wasp, *Vespula rufa*. Evolution 59:1306-1314. [PDF](https://DrawWing.github.io/files/wenseleers_etal_2005_evolution.pdf)
 
 Nascimento F. S., Hrncir M., **Tofilski A.**, Zucchi R., 2005. Scraping sounds produced by a social wasp (*Asteloeca ujhelyii*, Hymenoptera: Vespidae). Ethology 111:1116-1125.
 
@@ -135,12 +157,12 @@ Jensen A., Palmer K., Chaline N., Raine N., **Tofilski A.**, Martin S., Pedersen
 
 **Tofilski A.** 2004. DrawWing, a program for numerical description of insect wings. Journal of Insect Science, 4:17, 5pp. [HLML](http://insectscience.org/4.17)
 
-**Tofilski A.**, Czekonska K. 2004. Emergency queen rearing in honeybee colonies with brood of known age. Apidologie 35:275-282. [PDF](Tofilski_Czekonska2004.pdf"\>PDF</a><br>
+**Tofilski A.**, Czekonska K. 2004. Emergency queen rearing in honeybee colonies with brood of known age. Apidologie 35:275-282. [PDF](https://DrawWing.github.io/files/Tofilski_Czekonska2004.pdf)
 
-**Tofilski A.** 2002. Influence of age polyethism on longevity of workers in social insects. Behav. Ecol. Sociobiol. 51: 234-237. [PDF](Tofilski2002.pdf"\>PDF</a> , [HLML](Tofilski2002.html"\>Appendix</a>
+**Tofilski A.** 2002. Influence of age polyethism on longevity of workers in social insects. Behav. Ecol. Sociobiol. 51: 234-237. [PDF](https://DrawWing.github.io/files/Tofilski2002.pdf),  [Appendix](https://DrawWing.github.io/files/Tofilski2002appendix.html)
 
-**Tofilski A.** 2000. Senescence and learning in honey bee (*Apis mellifera*) workers. Acta. Neurobiol. Exp. 60:35-39. [PDF](Tofilski2000.pdf"\>PDF</a>
+**Tofilski A.** 2000. Senescence and learning in honey bee (*Apis mellifera*) workers. Acta. Neurobiol. Exp. 60:35-39. [PDF](https://DrawWing.github.io/files/Tofilski2000.pdf)
 
-**Tofilski A.**, Kopel J. 1996. The influence of Nosema apis on maturation and flight activity of honey bee drones. Pszczelnicze Zeszyty Naukowe 40:55-60. [PDF](Tofilski1996.pdf"\>PDF</a>
+**Tofilski A.**, Kopel J. 1996. The influence of Nosema apis on maturation and flight activity of honey bee drones. Pszczelnicze Zeszyty Naukowe 40:55-60. [PDF](https://DrawWing.github.io/files/Tofilski1996.pdf)
 
 **Tofilski A.** 1995. When should honey bee (*Apis mellifera*) colonies swarm? I Krajowa Konferencja Zastosowań Matematyki w Biologii i Medycynie, Zakopane. [PDF](https://DrawWing.github.io/files/Tofilski1995.pdf)
