@@ -41,7 +41,7 @@ redirect_from:
 
 17. Oleksa A., Kusza S. **Tofilski A.** 2021. Mitochondrial DNA Suggests the introduction of honeybees of African ancestry to East-Central Europe. Insects 12: 410. [HLML](https://doi.org/10.3390/insects12050410)
 
-18. Puškadija Z., Kovačić M., Raguž N., Lukić B., Prešern J., **Tofilski A.** 2021. Morphological diversity of Carniolan honey bee (*Apis mellifera carnica) in Croatia. Journal of Apicultural Research 60: 326-336. [HLML](https://doi.org/10.1080/00218839.2020.1843847)
+18. Puškadija Z., Kovačić M., Raguž N., Lukić B., Prešern J., **Tofilski A.** 2021. Morphological diversity of Carniolan honey bee (*Apis mellifera carnica*) in Croatia. Journal of Apicultural Research 60: 326-336. [HLML](https://doi.org/10.1080/00218839.2020.1843847)
 
 19. Janczyk A., Meixner M.D., **Tofilski A.** 2021. Morphometric identification of the endemic Maltese honey bee (*Apis mellifera ruttneri*). Journal of Apicultural Research 60: 157-164. [HLML](https://doi.org/10.1080/00218839.2020.1827705)
 
