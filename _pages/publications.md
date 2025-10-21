@@ -43,7 +43,7 @@ author_profile: true
 
 18. Puškadija Z., Kovačić M., Raguž N., Lukić B., Prešern J., **Tofilski A.** 2021. Morphological diversity of Carniolan honey bee (*Apis mellifera carnica*) in Croatia. Journal of Apicultural Research 60: 326-336. [HTML](https://doi.org/10.1080/00218839.2020.1843847)
 
-19. Janczyk A., Meixner M.D., **Tofilski A.** 2021. Morphometric identification of the endemic Maltese honey bee (*Apis mellifera ruttneri*). Journal of Apicultural Research 60: 157-164. [HTML](https://doi.org/10.1080/00218839.2020.1827705)
+19. Janczyk A., Meixner M.D., **Tofilski A.** 2021. Morphometric identification of the endemic Maltese honey bee (*Apis mellifera ruttneri*). Journal of Apicultural Research 60: 157-164. [HTML](https://doi.org/10.1080/00218839.2020.1827705), [PDF](https://DrawWing.github.io/files/Janczyk2021Morphometric.pdf)
 
 20. Hailu T. G., D'Alvise P., **Tofilski A.**, Fuchs S., Greiling J., Rosenkranz P., Hasselmann M. (2020). Insights into Ethiopian honey bee diversity based on wing geomorphometric and mitochondrial DNA analyses. Apidologie 51: 1182-1198. [HTML](https://doi.org/10.1007/s13592-020-00796-9)
 
